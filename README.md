@@ -1,5 +1,5 @@
 # [Multimodal cross-scale context clusters for classification of mental disorders using functional and structural MRI](https://www.sciencedirect.com/science/article/pii/S0893608025000887)
-![The framework of MCCocs.](framework.tif)
+![The framework of MCCocs.](framework.png)
 
 ## Requirements
 torch == 1.12.1; torchvision == 0.13.1; timm == 0.6.13; scikit-learn; nilearn; nibabel
