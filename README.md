@@ -1,4 +1,6 @@
-# MCCocs
+# [Multimodal cross-scale context clusters for classification of mental disorders using functional and structural MRI](https://www.sciencedirect.com/science/article/pii/S0893608025000887)
+![The framework of MCCocs.](framework.tif)
+
 ## Requirements
 torch == 1.12.1; torchvision == 0.13.1; timm == 0.6.13; scikit-learn; nilearn; nibabel
 
@@ -9,3 +11,14 @@ During the study, we attempted to map data points from different stages of the m
 > - Mapping data points to brain regions necessitates constructing a robust and clear 3D brain model, which requires significant time and resources and goes beyond the scope of this study.
 
 Nonetheless, we believe that promoting this would be highly worthwhile. To this end, we have open-sourced the preliminary implementation of our code in the script *visualization.py*. We hope this will attract contributions from researchers and developers, enabling innovative solutions and ultimately leading to the development of more efficient and intuitive visualization tools for the field.
+
+## BibTeX
+
+    @article{yang2025multimodal,
+        title={Multimodal Cross-Scale Context Clusters for Classification of Mental Disorders Using Functional and Structural MRI},
+        author={Yang, Shuqi and Lan, Qing and Zhang, Lijuan and Zhang, Kuangling and Tang, Guangmin and Huang, Huan and Liang, Ping and Miao, Jiaqing and Zhang, Boxun and Tan, Rui and others},
+        journal={Neural Networks},
+        pages={107209},
+        year={2025},
+        publisher={Elsevier}
+    }
