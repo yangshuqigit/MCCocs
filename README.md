@@ -1,4 +1,7 @@
 # [Multimodal cross-scale context clusters for classification of mental disorders using functional and structural MRI](https://www.sciencedirect.com/science/article/pii/S0893608025000887)
+
+This study has been accepted by *Neural Networks* as a Full Length Article.
+
 ![The framework of MCCocs.](framework.png)
 
 ## Requirements
